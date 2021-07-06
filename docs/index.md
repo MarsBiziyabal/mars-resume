@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Mars Biziyabal's Resume
 ---
-# Brigham Young
+# Mars Biziyabal
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
